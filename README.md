@@ -23,7 +23,7 @@ The following steps should be reviewed and performed **before** the workshop, to
 ### Computer
 * You will need a computer, computer-looking thing, or virtual machine (VM). We recommend using a VM, to avoid making changes to your host OS.
 * We will use this VM to unlock the bootloader and install LineageOS on the phone, and maybe a few other things.
-* We are using Xubuntu - a "lightweight" Ubuntu Linux based desktop OS - running under VirtualBox. VirtualBox runs on Windows, Mac, and Linux. Details on how to install VirtualBox are listed [below](Setup).
+* We are using Xubuntu - a "lightweight" Ubuntu Linux based desktop OS - running under VirtualBox. VirtualBox runs on Windows, Mac, and Linux. Details on how to install VirtualBox are listed [below](#Setup).
 
 ### VPN Server or Service
 There are two options to accomplish this. Ranking them from easiest to hardest we have

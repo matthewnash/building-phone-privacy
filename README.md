@@ -14,8 +14,8 @@ The following steps should be reviewed and performed **before** the workshop, to
         - [Can I unlock a carrier locked bootloader (T-Mobile) by using the pixel factory flash](https://forum.xda-developers.com/t/can-i-unlock-a-carrier-locked-bootloader-t-mobile-by-using-the-pixel-factory-flash.4043477/), which also talks about the differences between T-Mobile and Verizon regarding bootloader locks.
         - [SIM lock vs booloader lock](https://android.stackexchange.com/questions/44782/unlocked-device-vs-unlocked-bootloader)
 1. **Phone:** We picked two phones representing higher and lower end. The fact that both are Motorola brand is completely coincidental; we first had the G7 and then looked for the cheapest phone we could get that was supported by LineageOS 18.1.
-    - **Motorola Moto G7 (River)** - This is a mid-tier 2019 phone with some fancy features, that can still be found new in box.
-    - **Motorola Nexus 6 (Shamu)** - This is a 2014 phone that was reasonably inexpensive in the used market (carrier/SIM unlocked on eBay for $60).
+    - [**Motorola Moto G7 (River)**](https://wiki.lineageos.org/devices/river/) - This is a mid-tier 2019 phone with some fancy features, that can still be found new in box.
+    - [**Motorola Nexus 6 (Shamu)**](https://wiki.lineageos.org/devices/shamu/) - This is a 2014 phone that was reasonably inexpensive in the used market (carrier/SIM unlocked on eBay for $60).
 1. Appropriate USB data cable
 1. Micro-SD card or 2GB+ USB storage with appropriate USB connector/adapter
 1. If you plan to use this phone as a ..phone.. make sure you have a working SIM

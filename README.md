@@ -1,6 +1,5 @@
 Notes and files related to the the workshop 
-*Pursuing Phone Privacy Protection*, which is going to be presented 
-at the [DEFCON 30](https://defcon.org/) [Crypto and Privacy Village](https://cryptovillage.org).
+*Pursuing Phone Privacy Protection*
 
 ## Changes
 
